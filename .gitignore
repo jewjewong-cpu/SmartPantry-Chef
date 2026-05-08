@@ -1,0 +1,25 @@
+## OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+## Dependencies
+node_modules/
+
+## Builds
+dist/
+
+## Caches
+.npm-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+## Env
+.env
+.env.*
+
+## Local design/reference exports (not app source)
+stitch_*_design/
+
