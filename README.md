@@ -1,11 +1,10 @@
 # SmartPantry Chef
 
-React + Tailwind starter with a clean app layout.
+SmartPantry Chef is a React + Tailwind app for pantry-driven recipe matching, meal planning, and an AI Sous-Chef helper.
 
-## Run
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
-
